@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2025-06-04 18:49:22,http://183.11.239.36:808/hls/91/index.m3u8
+2025-06-05 06:36:00,http://218.89.240.144:59901/tsfile/live/0003_1.m3u8
 
 央视频道,#genre#
-CCTV-3,http://183.11.239.36:808/hls/91/index.m3u8
+CCTV-3,http://218.89.240.144:59901/tsfile/live/0003_1.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 安徽频道,#genre#
