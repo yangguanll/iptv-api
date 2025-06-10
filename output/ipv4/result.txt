@@ -1,17 +1,12 @@
 🕘️更新时间,#genre#
-2025-06-10 18:50:54,http://36.105.100.208:35455/gaoma/cctv2.m3u8
+2025-06-11 06:43:02,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视频道,#genre#
-CCTV-2,http://36.105.100.208:35455/gaoma/cctv2.m3u8
-CCTV-3,http://lt.hxtre.com:35455/gaoma/cctv3.m3u8
-CCTV-3,http://36.105.100.208:35455/gaoma/cctv3.m3u8
-CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
+CCTV-4,http://36.105.100.208:35455/gaoma/cctv4k.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
-CCTV-5,http://36.105.100.208:35455/gaoma/cctv5.m3u8
-CCTV-5+,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://58.19.43.46:9901/tsfile/live/1025_1.m3u8
-CCTV-6,http://121.17.146.34:50003/hls/6/index.m3u8
+CCTV-5+,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 安徽频道,#genre#
 
