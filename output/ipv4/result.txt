@@ -1,14 +1,11 @@
 🕘️更新时间,#genre#
-2025-06-11 18:50:28,http://58.243.224.242:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+2025-06-12 06:43:57,http://112.123.243.37:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 
 央视频道,#genre#
-CCTV-4,http://58.243.224.242:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
+CCTV-4,http://112.123.243.37:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
-CCTV-5+,http://36.105.100.208:35455/gaoma/cctv5p.m3u8
-CCTV-5+,http://www.douzhicloud.site:35455/gaoma/cctv5p.m3u8
-CCTV-6,http://36.105.100.208:35455/gaoma/cctv6.m3u8
 
 安徽频道,#genre#
 
