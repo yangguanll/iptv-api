@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250614224106 +0800">
+<tv date="20250615104657 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -590,65 +590,5 @@
 	</programme>
 	<programme channel="CCTV-6" start="20250615230100 +0800" stop="20250615235900 +0800">
 		<title lang="zh">霍华德庄园（下）</title>
-	</programme>
-	<channel id="安徽经济生活">
-		<display-name lang="zh">安徽经济生活</display-name>
-	</channel>
-	<programme channel="安徽经济生活" start="20250615000500 +0800" stop="20250615011500 +0800">
-		<title lang="zh">第一时间</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615011500 +0800" stop="20250615012000 +0800">
-		<title lang="zh">晚间看天气</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615012000 +0800" stop="20250615054500 +0800">
-		<title lang="zh">节目结束</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615054500 +0800" stop="20250615062500 +0800">
-		<title lang="zh">帮女郎帮你忙</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615062500 +0800" stop="20250615074000 +0800">
-		<title lang="zh">第一时间</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615074000 +0800" stop="20250615080000 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615080000 +0800" stop="20250615113500 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615113500 +0800" stop="20250615114500 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615114500 +0800" stop="20250615123000 +0800">
-		<title lang="zh">经视1时间</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615123000 +0800" stop="20250615130000 +0800">
-		<title lang="zh">经视说法</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615130000 +0800" stop="20250615133000 +0800">
-		<title lang="zh">团购节目</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615133000 +0800" stop="20250615162500 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615162500 +0800" stop="20250615170000 +0800">
-		<title lang="zh">团购节目</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615170000 +0800" stop="20250615173500 +0800">
-		<title lang="zh">健康行天下</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615173500 +0800" stop="20250615182000 +0800">
-		<title lang="zh">帮女郎帮你忙</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615182000 +0800" stop="20250615194500 +0800">
-		<title lang="zh">第一时间</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615194500 +0800" stop="20250615235000 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615235000 +0800" stop="20250615235900 +0800">
-		<title lang="zh">经视说法</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250615235900 +0800" stop="20250615235900 +0800">
-		<title lang="zh">结束</title>
 	</programme>
 </tv>
