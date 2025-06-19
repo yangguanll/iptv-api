@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-19 06:42:48,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-06-19 18:53:48,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -67,50 +67,21 @@ CCTV-6,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV-6,http://goo.bkpcp.top/mg/cctv6
 
-🌊港·澳·台,#genre#
-凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
+港澳台频,#genre#
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
-凤凰中文,http://cdn.163.dedyn.io/live/fhzw/stream.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php
+凤凰中文,http://cdn.163.dedyn.io/live/fhzw/stream.m3u8
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.ctv
-凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
+凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
-凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-7.ctv
-凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-10.ctv
-凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
-凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
-凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-2.m3u8
-凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
-凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-9.ctv
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-6.ctv
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-3.ctv
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-3.m3u8
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php
+凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
-凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
-凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
-凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php
-凤凰卫视,https://cdn.163189.xyz/live/fhzw/stream.m3u8
-凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php
-凤凰卫视,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
-凤凰卫视,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
-凤凰卫视,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
-凤凰卫视,https://live.tvfix.org/live/fhxg/index.m3u8
-凤凰卫视,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
+凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-7.m3u8
-香港卫视,https://stream1.freetv.fun/79e4d77e2f29a2ca7f7cabbbe2ee02d32a4f2f7fb91ae94d0fb9573c9f94b4ab.ctv
-香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-11.m3u8
-香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-13.m3u8
-香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
