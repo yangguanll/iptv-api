@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-06-27 18:27:24,http://119.32.12.17:2901/udp/224.1.100.64:11111
+2025-06-28 06:26:07,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视频道,#genre#
-CCTV-3,http://119.32.12.17:2901/udp/224.1.100.64:11111
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
@@ -14,4 +13,3 @@ CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
