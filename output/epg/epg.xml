@@ -1,1251 +1,648 @@
 <?xml version="1.0" ?>
-<tv date="20250716102930 +0800">
+<tv date="20250716222545 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
-	<programme channel="CCTV-1" start="20250716011100 +0800" stop="20250716013100 +0800">
-		<title lang="zh">人口-2025-26</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716013100 +0800" stop="20250716020100 +0800">
-		<title lang="zh">今日说法-2025-135</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716020100 +0800" stop="20250716023300 +0800">
-		<title lang="zh">晚间新闻</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716023300 +0800" stop="20250716023700 +0800">
-		<title lang="zh">山水间的家-主题曲</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716023700 +0800" stop="20250716024500 +0800">
-		<title lang="zh">非遗里的中国-MV</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716024500 +0800" stop="20250716041000 +0800">
-		<title lang="zh">山水间的家（第三季）-5</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716041000 +0800" stop="20250716041200 +0800">
-		<title lang="zh">泱泱中华-历史文化街区1</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716041200 +0800" stop="20250716044300 +0800">
-		<title lang="zh">今日说法-2025-135</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716044300 +0800" stop="20250716052700 +0800">
-		<title lang="zh">新闻联播</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716052700 +0800" stop="20250716060000 +0800">
-		<title lang="zh">寻古中国（第二季）-齐鲁记3</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716060000 +0800" stop="20250716083700 +0800">
-		<title lang="zh">朝闻天下</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716083700 +0800" stop="20250716092100 +0800">
-		<title lang="zh">生活早参考-特别节目（生活圈）2025-145</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716092100 +0800" stop="20250716101200 +0800">
-		<title lang="zh">以法之名第19集</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716101200 +0800" stop="20250716110500 +0800">
-		<title lang="zh">以法之名第20集</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716110500 +0800" stop="20250716115300 +0800">
-		<title lang="zh">以法之名第21集</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716115300 +0800" stop="20250716120000 +0800">
-		<title lang="zh">2024秘境之眼-221</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716120000 +0800" stop="20250716123500 +0800">
-		<title lang="zh">新闻30分</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716123500 +0800" stop="20250716130800 +0800">
+	<programme channel="CCTV-1" start="20250717011100 +0800" stop="20250717014100 +0800">
 		<title lang="zh">今日说法-2025-136</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250716130800 +0800" stop="20250716135600 +0800">
-		<title lang="zh">追风者第14集</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716135600 +0800" stop="20250716144800 +0800">
-		<title lang="zh">追风者第15集</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716144800 +0800" stop="20250716153800 +0800">
-		<title lang="zh">追风者第16集</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716153800 +0800" stop="20250716162400 +0800">
-		<title lang="zh">追风者第17集</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716162400 +0800" stop="20250716171300 +0800">
-		<title lang="zh">追风者第18集</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716171300 +0800" stop="20250716185000 +0800">
-		<title lang="zh">第一动画乐园-2025-263(猫与桃花源)</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716185000 +0800" stop="20250716190000 +0800">
-		<title lang="zh">秘境之眼-2025-197</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716190000 +0800" stop="20250716193900 +0800">
-		<title lang="zh">新闻联播</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716193900 +0800" stop="20250716200000 +0800">
-		<title lang="zh">焦点访谈</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716200000 +0800" stop="20250716200500 +0800">
-		<title lang="zh">前情提要-浴血荣光-3/40</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716200500 +0800" stop="20250716205500 +0800">
-		<title lang="zh">浴血荣光3/40</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716205500 +0800" stop="20250716210000 +0800">
-		<title lang="zh">前情提要-浴血荣光-4/40</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716210000 +0800" stop="20250716215200 +0800">
-		<title lang="zh">浴血荣光4/40</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716215200 +0800" stop="20250716220000 +0800">
-		<title lang="zh">非遗里的中国-MV</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716220000 +0800" stop="20250716223400 +0800">
+	<programme channel="CCTV-1" start="20250717014100 +0800" stop="20250717021200 +0800">
 		<title lang="zh">晚间新闻</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250716223400 +0800" stop="20250716224600 +0800">
-		<title lang="zh">守望：红色保密往事-11工业奠基</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716224600 +0800" stop="20250716225800 +0800">
-		<title lang="zh">守望：红色保密往事-12重器之盾</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250716225800 +0800" stop="20250716233100 +0800">
+	<programme channel="CCTV-1" start="20250717021200 +0800" stop="20250717024200 +0800">
 		<title lang="zh">寻古中国（第二季）-寻商记3</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250716233100 +0800" stop="20250716235900 +0800">
+	<programme channel="CCTV-1" start="20250717024200 +0800" stop="20250717024600 +0800">
+		<title lang="zh">非遗里的中国（第二季）-笔落千秋</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717024600 +0800" stop="20250717042000 +0800">
 		<title lang="zh">山水间的家（第三季）-11</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717042000 +0800" stop="20250717042200 +0800">
+		<title lang="zh">泱泱中华-历史文化街区1</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717042200 +0800" stop="20250717045300 +0800">
+		<title lang="zh">今日说法-2025-136</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717045300 +0800" stop="20250717052700 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717052700 +0800" stop="20250717060000 +0800">
+		<title lang="zh">寻古中国（第二季）-齐鲁记4</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717060000 +0800" stop="20250717083700 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717083700 +0800" stop="20250717092100 +0800">
+		<title lang="zh">生活早参考-特别节目（生活圈）2025-146</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717092100 +0800" stop="20250717101200 +0800">
+		<title lang="zh">以法之名第22集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717101200 +0800" stop="20250717110500 +0800">
+		<title lang="zh">以法之名第23集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717110500 +0800" stop="20250717115300 +0800">
+		<title lang="zh">以法之名第24集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717115300 +0800" stop="20250717120000 +0800">
+		<title lang="zh">2024秘境之眼-222</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717120000 +0800" stop="20250717123500 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717123500 +0800" stop="20250717131000 +0800">
+		<title lang="zh">今日说法-2025-137</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717131000 +0800" stop="20250717135800 +0800">
+		<title lang="zh">追风者第19集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717135800 +0800" stop="20250717145100 +0800">
+		<title lang="zh">追风者第20集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717145100 +0800" stop="20250717153900 +0800">
+		<title lang="zh">追风者第21集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717153900 +0800" stop="20250717162700 +0800">
+		<title lang="zh">追风者第22集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717162700 +0800" stop="20250717163700 +0800">
+		<title lang="zh">非遗里的中国（第二季）-精编6</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717163700 +0800" stop="20250717165100 +0800">
+		<title lang="zh">非遗里的中国（第二季）-精编7</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717165100 +0800" stop="20250717185000 +0800">
+		<title lang="zh">第一动画乐园-2025-264(新神榜：杨戬)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717185000 +0800" stop="20250717190000 +0800">
+		<title lang="zh">秘境之眼-2025-198</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717190000 +0800" stop="20250717193900 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717193900 +0800" stop="20250717200100 +0800">
+		<title lang="zh">焦点访谈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717200100 +0800" stop="20250717200600 +0800">
+		<title lang="zh">前情提要-浴血荣光-第5集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717200600 +0800" stop="20250717205500 +0800">
+		<title lang="zh">浴血荣光5/40</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717205500 +0800" stop="20250717210000 +0800">
+		<title lang="zh">前情提要-浴血荣光-第6集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717210000 +0800" stop="20250717215100 +0800">
+		<title lang="zh">浴血荣光6/40</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717215100 +0800" stop="20250717220000 +0800">
+		<title lang="zh">山水间的家-主题曲</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717220000 +0800" stop="20250717223400 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717223400 +0800" stop="20250717224400 +0800">
+		<title lang="zh">守望：红色保密往事-13一座神秘诞生的城</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717224400 +0800" stop="20250717225800 +0800">
+		<title lang="zh">守望：红色保密往事-14率先垂范</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717225800 +0800" stop="20250717233100 +0800">
+		<title lang="zh">寻古中国（第二季）-寻商记4</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250717233100 +0800" stop="20250717235900 +0800">
+		<title lang="zh">山水间的家（第三季）-12</title>
 	</programme>
 	<channel id="CCTV-2">
 		<display-name lang="zh">CCTV-2</display-name>
 	</channel>
-	<programme channel="CCTV-2" start="20250716002800 +0800" stop="20250716005000 +0800">
-		<title lang="zh">周末特供2025-万物滋养2-20分版</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716005000 +0800" stop="20250716012100 +0800">
-		<title lang="zh">逐光-3</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716012100 +0800" stop="20250716021900 +0800">
-		<title lang="zh">欢乐大猜想-2025-28</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716021900 +0800" stop="20250716031700 +0800">
-		<title lang="zh">职场健康课-2025-28</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716031700 +0800" stop="20250716033500 +0800">
-		<title lang="zh">周末特供2022-万物之生1-18分版</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716033500 +0800" stop="20250716043300 +0800">
-		<title lang="zh">一槌定音-2025-28</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716043300 +0800" stop="20250716050100 +0800">
-		<title lang="zh">回家吃饭-2025-156</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716050100 +0800" stop="20250716053100 +0800">
-		<title lang="zh">消费主张</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716053100 +0800" stop="20250716055900 +0800">
-		<title lang="zh">生财有道-2025-7-15</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716055900 +0800" stop="20250716070000 +0800">
-		<title lang="zh">经济信息联播</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716070000 +0800" stop="20250716090000 +0800">
-		<title lang="zh">第一时间</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716090000 +0800" stop="20250716100000 +0800">
-		<title lang="zh">正点财经</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716100000 +0800" stop="20250716103000 +0800">
-		<title lang="zh">正点财经</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716103000 +0800" stop="20250716110000 +0800">
+	<programme channel="CCTV-2" start="20250717003900 +0800" stop="20250717011100 +0800">
 		<title lang="zh">经济半小时</title>
 	</programme>
-	<programme channel="CCTV-2" start="20250716110000 +0800" stop="20250716113000 +0800">
-		<title lang="zh">正点财经</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716113000 +0800" stop="20250716114400 +0800">
-		<title lang="zh">周末特供2025-535</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716114400 +0800" stop="20250716120000 +0800">
-		<title lang="zh">周末特供2025-558</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716120000 +0800" stop="20250716130000 +0800">
-		<title lang="zh">天下财经</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716130000 +0800" stop="20250716133100 +0800">
-		<title lang="zh">逐光-2</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716133100 +0800" stop="20250716140000 +0800">
-		<title lang="zh">回家吃饭-2025-156</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716140000 +0800" stop="20250716143000 +0800">
-		<title lang="zh">正点财经</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716143000 +0800" stop="20250716150000 +0800">
-		<title lang="zh">消费主张</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716150000 +0800" stop="20250716153000 +0800">
-		<title lang="zh">正点财经</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716153000 +0800" stop="20250716160000 +0800">
-		<title lang="zh">生财有道-2025-7-15</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716160000 +0800" stop="20250716170000 +0800">
-		<title lang="zh">正点财经</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716170000 +0800" stop="20250716173200 +0800">
-		<title lang="zh">正点财经</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716173200 +0800" stop="20250716174000 +0800">
-		<title lang="zh">周末特供2023-乡野有真味2-8分版</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716174000 +0800" stop="20250716180500 +0800">
-		<title lang="zh">2024精品财经纪录-城市烟火-4</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716180500 +0800" stop="20250716183000 +0800">
-		<title lang="zh">2024精品财经纪录-城市烟火-5</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716183000 +0800" stop="20250716190000 +0800">
-		<title lang="zh">回家吃饭-2025-157</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716190000 +0800" stop="20250716193000 +0800">
-		<title lang="zh">生财有道-2025-7-16</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716193000 +0800" stop="20250716200000 +0800">
-		<title lang="zh">消费主张</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716200000 +0800" stop="20250716203000 +0800">
-		<title lang="zh">经济半小时</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716203000 +0800" stop="20250716213000 +0800">
-		<title lang="zh">经济信息联播</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716213000 +0800" stop="20250716215600 +0800">
-		<title lang="zh">央视财经评论-2025-7-16</title>
-	</programme>
-	<programme channel="CCTV-2" start="20250716215600 +0800" stop="20250716223200 +0800">
+	<programme channel="CCTV-2" start="20250717011100 +0800" stop="20250717014100 +0800">
 		<title lang="zh">逐光-4</title>
 	</programme>
-	<programme channel="CCTV-2" start="20250716223200 +0800" stop="20250716230700 +0800">
-		<title lang="zh">人民城市的上海实践-2</title>
+	<programme channel="CCTV-2" start="20250717014100 +0800" stop="20250717022500 +0800">
+		<title lang="zh">中国经济大讲堂-2025-27</title>
 	</programme>
-	<programme channel="CCTV-2" start="20250716230700 +0800" stop="20250716233400 +0800">
-		<title lang="zh">2024精品财经纪录-我们的丰收-1</title>
+	<programme channel="CCTV-2" start="20250717022500 +0800" stop="20250717032400 +0800">
+		<title lang="zh">欢乐大猜想-2025-28</title>
 	</programme>
-	<programme channel="CCTV-2" start="20250716233400 +0800" stop="20250716235900 +0800">
-		<title lang="zh">职场健康课-2025-28</title>
+	<programme channel="CCTV-2" start="20250717032400 +0800" stop="20250717035000 +0800">
+		<title lang="zh">2024精品财经纪录-人类记忆中国的世界遗产-1</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717035000 +0800" stop="20250717043200 +0800">
+		<title lang="zh">对话-2025-25</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717043200 +0800" stop="20250717050100 +0800">
+		<title lang="zh">回家吃饭-2025-157</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717050100 +0800" stop="20250717053100 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717053100 +0800" stop="20250717055900 +0800">
+		<title lang="zh">生财有道-2025-7-16</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717055900 +0800" stop="20250717070000 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717070000 +0800" stop="20250717090000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717090000 +0800" stop="20250717100000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717100000 +0800" stop="20250717103000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717103000 +0800" stop="20250717110000 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717110000 +0800" stop="20250717113000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717113000 +0800" stop="20250717114400 +0800">
+		<title lang="zh">周末特供2025-554</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717114400 +0800" stop="20250717120000 +0800">
+		<title lang="zh">周末特供2025-555</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717120000 +0800" stop="20250717130000 +0800">
+		<title lang="zh">天下财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717130000 +0800" stop="20250717133100 +0800">
+		<title lang="zh">逐光-3</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717133100 +0800" stop="20250717140000 +0800">
+		<title lang="zh">回家吃饭-2025-157</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717140000 +0800" stop="20250717143000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717143000 +0800" stop="20250717150000 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717150000 +0800" stop="20250717153000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717153000 +0800" stop="20250717160000 +0800">
+		<title lang="zh">生财有道-2025-7-16</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717160000 +0800" stop="20250717170000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717170000 +0800" stop="20250717173200 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717173200 +0800" stop="20250717174000 +0800">
+		<title lang="zh">周末特供2023-乡野有真味4-8分版</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717174000 +0800" stop="20250717180500 +0800">
+		<title lang="zh">2024精品财经纪录-城市烟火-6</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717180500 +0800" stop="20250717183000 +0800">
+		<title lang="zh">2024精品财经纪录-城市烟火-7</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717183000 +0800" stop="20250717190000 +0800">
+		<title lang="zh">回家吃饭-2025-158</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717190000 +0800" stop="20250717193000 +0800">
+		<title lang="zh">生财有道-2025-7-17</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717193000 +0800" stop="20250717200000 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717200000 +0800" stop="20250717203000 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717203000 +0800" stop="20250717213000 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717213000 +0800" stop="20250717215600 +0800">
+		<title lang="zh">央视财经评论-2025-7-17</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717215600 +0800" stop="20250717223200 +0800">
+		<title lang="zh">逐光-5</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717223200 +0800" stop="20250717230700 +0800">
+		<title lang="zh">人民城市的上海实践-3</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717230700 +0800" stop="20250717233400 +0800">
+		<title lang="zh">2024精品财经纪录-我们的丰收-2</title>
+	</programme>
+	<programme channel="CCTV-2" start="20250717233400 +0800" stop="20250717235900 +0800">
+		<title lang="zh">一槌定音-2025-28</title>
 	</programme>
 	<channel id="CCTV-3">
 		<display-name lang="zh">CCTV-3</display-name>
 	</channel>
-	<programme channel="CCTV-3" start="20250716001300 +0800" stop="20250716005900 +0800">
-		<title lang="zh">综艺喜乐汇-2025-502 南来北往29/39</title>
+	<programme channel="CCTV-3" start="20250717001400 +0800" stop="20250717010000 +0800">
+		<title lang="zh">综艺喜乐汇-2025-505 南来北往32/39</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716005900 +0800" stop="20250716022800 +0800">
-		<title lang="zh">影视留声机-2025-62-经典音乐电影欣赏《阿诗玛》</title>
+	<programme channel="CCTV-3" start="20250717010000 +0800" stop="20250717024600 +0800">
+		<title lang="zh">影视留声机-2025-63-经典音乐电影欣赏《五朵金花》</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716022800 +0800" stop="20250716025600 +0800">
-		<title lang="zh">舞蹈世界-2025-2</title>
+	<programme channel="CCTV-3" start="20250717024600 +0800" stop="20250717041900 +0800">
+		<title lang="zh">诗画中国-3</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716025600 +0800" stop="20250716042700 +0800">
-		<title lang="zh">诗画中国-1</title>
+	<programme channel="CCTV-3" start="20250717041900 +0800" stop="20250717050500 +0800">
+		<title lang="zh">乐享汇-2025-25</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716042700 +0800" stop="20250716042900 +0800">
-		<title lang="zh">悦读一夏-望星空</title>
+	<programme channel="CCTV-3" start="20250717050500 +0800" stop="20250717055500 +0800">
+		<title lang="zh">幸福账单-勇者之战-2025-10</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716042900 +0800" stop="20250716054700 +0800">
-		<title lang="zh">星光大道-2025-24（这一站星光17）</title>
+	<programme channel="CCTV-3" start="20250717055500 +0800" stop="20250717070500 +0800">
+		<title lang="zh">在中国大地上边走边跳--武昌站</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716054700 +0800" stop="20250716070800 +0800">
-		<title lang="zh">国风超有戏音乐会-新兴篇</title>
-	</programme>
-	<programme channel="CCTV-3" start="20250716070800 +0800" stop="20250716072900 +0800">
-		<title lang="zh">文化十分-2025-146</title>
-	</programme>
-	<programme channel="CCTV-3" start="20250716072900 +0800" stop="20250716083200 +0800">
-		<title lang="zh">精彩音乐汇-我的爱对你说-2025-318</title>
-	</programme>
-	<programme channel="CCTV-3" start="20250716083200 +0800" stop="20250716090700 +0800">
-		<title lang="zh">综艺喜乐汇-2024-582</title>
-	</programme>
-	<programme channel="CCTV-3" start="20250716090700 +0800" stop="20250716101400 +0800">
-		<title lang="zh">综艺盛典-2025-18选对健康18</title>
-	</programme>
-	<programme channel="CCTV-3" start="20250716101400 +0800" stop="20250716113500 +0800">
-		<title lang="zh">越战越勇-2025-25</title>
-	</programme>
-	<programme channel="CCTV-3" start="20250716113500 +0800" stop="20250716130000 +0800">
-		<title lang="zh">向幸福出发-2025-11</title>
-	</programme>
-	<programme channel="CCTV-3" start="20250716130000 +0800" stop="20250716132600 +0800">
+	<programme channel="CCTV-3" start="20250717070500 +0800" stop="20250717072500 +0800">
 		<title lang="zh">文化十分-2025-147</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716132600 +0800" stop="20250716145400 +0800">
-		<title lang="zh">你好时光-2</title>
+	<programme channel="CCTV-3" start="20250717072500 +0800" stop="20250717082900 +0800">
+		<title lang="zh">精彩音乐汇-我的爱对你说-2025-320</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716145400 +0800" stop="20250716160200 +0800">
-		<title lang="zh">综艺喜乐汇-2024-765</title>
+	<programme channel="CCTV-3" start="20250717082900 +0800" stop="20250717090600 +0800">
+		<title lang="zh">动物园里有什么-1</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716160200 +0800" stop="20250716171000 +0800">
-		<title lang="zh">非常6+1-2025-17萌娃问天下17</title>
+	<programme channel="CCTV-3" start="20250717090600 +0800" stop="20250717101300 +0800">
+		<title lang="zh">综艺盛典-2025-19选对健康19</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716171000 +0800" stop="20250716180600 +0800">
-		<title lang="zh">综艺喜乐汇-2025-932</title>
+	<programme channel="CCTV-3" start="20250717101300 +0800" stop="20250717113500 +0800">
+		<title lang="zh">星光大道-2025-23（这一站星光16）</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716180600 +0800" stop="20250716193000 +0800">
-		<title lang="zh">开门大吉-2025-28</title>
-	</programme>
-	<programme channel="CCTV-3" start="20250716193000 +0800" stop="20250716205200 +0800">
+	<programme channel="CCTV-3" start="20250717113500 +0800" stop="20250717130000 +0800">
 		<title lang="zh">越战越勇-2025-26</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716205200 +0800" stop="20250716214600 +0800">
-		<title lang="zh">综艺喜乐汇-2025-630</title>
+	<programme channel="CCTV-3" start="20250717130000 +0800" stop="20250717132300 +0800">
+		<title lang="zh">文化十分-2025-148</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716214600 +0800" stop="20250716224200 +0800">
-		<title lang="zh">我的艺术清单-2025-8</title>
+	<programme channel="CCTV-3" start="20250717132300 +0800" stop="20250717144700 +0800">
+		<title lang="zh">此生要去的100个地方-8</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716224200 +0800" stop="20250716232800 +0800">
-		<title lang="zh">综艺喜乐汇-2025-503 南来北往30/39</title>
+	<programme channel="CCTV-3" start="20250717144700 +0800" stop="20250717154700 +0800">
+		<title lang="zh">综艺喜乐汇-2024-771</title>
 	</programme>
-	<programme channel="CCTV-3" start="20250716232800 +0800" stop="20250716235900 +0800">
-		<title lang="zh">综艺喜乐汇-2025-504 南来北往31/39</title>
+	<programme channel="CCTV-3" start="20250717154700 +0800" stop="20250717171200 +0800">
+		<title lang="zh">向幸福出发-2025-16</title>
+	</programme>
+	<programme channel="CCTV-3" start="20250717171200 +0800" stop="20250717180800 +0800">
+		<title lang="zh">综艺喜乐汇-2025-934</title>
+	</programme>
+	<programme channel="CCTV-3" start="20250717180800 +0800" stop="20250717193000 +0800">
+		<title lang="zh">开门大吉-2025-27</title>
+	</programme>
+	<programme channel="CCTV-3" start="20250717193000 +0800" stop="20250717205100 +0800">
+		<title lang="zh">星光大道-2025-29（这一站星光22）</title>
+	</programme>
+	<programme channel="CCTV-3" start="20250717205100 +0800" stop="20250717214600 +0800">
+		<title lang="zh">综艺喜乐汇-2025-631</title>
+	</programme>
+	<programme channel="CCTV-3" start="20250717214600 +0800" stop="20250717224000 +0800">
+		<title lang="zh">我的艺术清单-2025-9</title>
+	</programme>
+	<programme channel="CCTV-3" start="20250717224000 +0800" stop="20250717232600 +0800">
+		<title lang="zh">综艺喜乐汇-2025-506 南来北往33/39</title>
+	</programme>
+	<programme channel="CCTV-3" start="20250717232600 +0800" stop="20250717235900 +0800">
+		<title lang="zh">综艺喜乐汇-2025-507 南来北往34/39</title>
 	</programme>
 	<channel id="CCTV-4">
 		<display-name lang="zh">CCTV-4</display-name>
 	</channel>
-	<programme channel="CCTV-4" start="20250716002700 +0800" stop="20250716011300 +0800">
-		<title lang="zh">国家孩子第22集</title>
+	<programme channel="CCTV-4" start="20250717001700 +0800" stop="20250717010300 +0800">
+		<title lang="zh">国家孩子第25集</title>
 	</programme>
-	<programme channel="CCTV-4" start="20250716011300 +0800" stop="20250716020000 +0800">
-		<title lang="zh">国家孩子第23集</title>
+	<programme channel="CCTV-4" start="20250717010300 +0800" stop="20250717014900 +0800">
+		<title lang="zh">国家孩子第26集</title>
 	</programme>
-	<programme channel="CCTV-4" start="20250716020000 +0800" stop="20250716024000 +0800">
+	<programme channel="CCTV-4" start="20250717014900 +0800" stop="20250717015300 +0800">
+		<title lang="zh">记住乡愁-片段展播-2024-5</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717015300 +0800" stop="20250717020000 +0800">
+		<title lang="zh">记住乡愁-片段展播-2024-6</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717020000 +0800" stop="20250717023000 +0800">
 		<title lang="zh">新闻联播</title>
 	</programme>
-	<programme channel="CCTV-4" start="20250716024000 +0800" stop="20250716024400 +0800">
-		<title lang="zh">记住乡愁-片段展播-2024-3</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716024400 +0800" stop="20250716024800 +0800">
-		<title lang="zh">记住乡愁-片段展播-2024-4</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716024800 +0800" stop="20250716030000 +0800">
-		<title lang="zh">国家公园精彩片段-12</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716030000 +0800" stop="20250716031000 +0800">
-		<title lang="zh">中国新闻</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716031000 +0800" stop="20250716040000 +0800">
-		<title lang="zh">远方的家2025-45</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716040000 +0800" stop="20250716043000 +0800">
-		<title lang="zh">中国新闻</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716043000 +0800" stop="20250716050000 +0800">
-		<title lang="zh">今日关注</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716050000 +0800" stop="20250716053000 +0800">
-		<title lang="zh">国家记忆-2025-77</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716053000 +0800" stop="20250716060000 +0800">
-		<title lang="zh">走遍中国-2025-112</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716060000 +0800" stop="20250716063000 +0800">
-		<title lang="zh">海峡两岸-2025-196</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716063000 +0800" stop="20250716070000 +0800">
-		<title lang="zh">今日亚洲</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716070000 +0800" stop="20250716073000 +0800">
-		<title lang="zh">中国新闻</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716073000 +0800" stop="20250716080000 +0800">
-		<title lang="zh">今日关注</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716080000 +0800" stop="20250716090000 +0800">
-		<title lang="zh">今日环球</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716090000 +0800" stop="20250716092600 +0800">
-		<title lang="zh">今日亚洲</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716092600 +0800" stop="20250716095300 +0800">
-		<title lang="zh">国家记忆-2024-25</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716095300 +0800" stop="20250716100000 +0800">
-		<title lang="zh">国家公园精彩片段-7</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716100000 +0800" stop="20250716103100 +0800">
-		<title lang="zh">2025年国台办发布会-11</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716103100 +0800" stop="20250716105800 +0800">
-		<title lang="zh">国家记忆-2024-126</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716105800 +0800" stop="20250716113000 +0800">
-		<title lang="zh">国家记忆-2024-127</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716113000 +0800" stop="20250716120000 +0800">
-		<title lang="zh">海峡两岸-2025-196</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716120000 +0800" stop="20250716130100 +0800">
-		<title lang="zh">中国新闻</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716130100 +0800" stop="20250716134700 +0800">
-		<title lang="zh">飞哥战队第2集</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716134700 +0800" stop="20250716143300 +0800">
-		<title lang="zh">飞哥战队第3集</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716143300 +0800" stop="20250716152000 +0800">
-		<title lang="zh">飞哥战队第4集</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716152000 +0800" stop="20250716160600 +0800">
-		<title lang="zh">飞哥战队第5集</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716160600 +0800" stop="20250716165600 +0800">
-		<title lang="zh">飞哥战队第6集</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716165600 +0800" stop="20250716170100 +0800">
-		<title lang="zh">国家公园精彩片段-6</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716170100 +0800" stop="20250716171500 +0800">
-		<title lang="zh">平凡匠心-2024-70</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716171500 +0800" stop="20250716180000 +0800">
-		<title lang="zh">远方的家2025-108(4K)</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716180000 +0800" stop="20250716183000 +0800">
-		<title lang="zh">中国新闻</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716183000 +0800" stop="20250716190000 +0800">
-		<title lang="zh">中国文艺-2025-141</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716190000 +0800" stop="20250716193000 +0800">
-		<title lang="zh">中国新闻</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716193000 +0800" stop="20250716200000 +0800">
-		<title lang="zh">今日亚洲</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716200000 +0800" stop="20250716203000 +0800">
-		<title lang="zh">国家记忆-2025-78</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716203000 +0800" stop="20250716210000 +0800">
-		<title lang="zh">海峡两岸-2025-197</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716210000 +0800" stop="20250716213000 +0800">
-		<title lang="zh">中国新闻</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716213000 +0800" stop="20250716220000 +0800">
-		<title lang="zh">今日关注</title>
-	</programme>
-	<programme channel="CCTV-4" start="20250716220000 +0800" stop="20250716223000 +0800">
+	<programme channel="CCTV-4" start="20250717023000 +0800" stop="20250717030000 +0800">
 		<title lang="zh">走遍中国-2025-113</title>
 	</programme>
-	<programme channel="CCTV-4" start="20250716223000 +0800" stop="20250716230300 +0800">
+	<programme channel="CCTV-4" start="20250717030000 +0800" stop="20250717031000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717031000 +0800" stop="20250717040000 +0800">
+		<title lang="zh">远方的家2025-108(4K)</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717040000 +0800" stop="20250717043000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717043000 +0800" stop="20250717050000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717050000 +0800" stop="20250717053000 +0800">
+		<title lang="zh">国家记忆-2025-78</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717053000 +0800" stop="20250717060000 +0800">
+		<title lang="zh">走遍中国-2025-113</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717060000 +0800" stop="20250717063000 +0800">
+		<title lang="zh">海峡两岸-2025-197</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717063000 +0800" stop="20250717070000 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717070000 +0800" stop="20250717073000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717073000 +0800" stop="20250717080000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717080000 +0800" stop="20250717090000 +0800">
+		<title lang="zh">今日环球</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717090000 +0800" stop="20250717092600 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717092600 +0800" stop="20250717095300 +0800">
+		<title lang="zh">国家记忆-2024-149</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717095300 +0800" stop="20250717102300 +0800">
+		<title lang="zh">国家记忆-2024-150</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717102300 +0800" stop="20250717105000 +0800">
+		<title lang="zh">国家记忆-2025-18</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717105000 +0800" stop="20250717112000 +0800">
+		<title lang="zh">国家记忆-2025-19</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717112000 +0800" stop="20250717112600 +0800">
+		<title lang="zh">国家公园精彩片段-7</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717112600 +0800" stop="20250717120000 +0800">
+		<title lang="zh">海峡两岸-2025-197</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717120000 +0800" stop="20250717130100 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717130100 +0800" stop="20250717134700 +0800">
+		<title lang="zh">飞哥战队第7集</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717134700 +0800" stop="20250717143300 +0800">
+		<title lang="zh">飞哥战队第8集</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717143300 +0800" stop="20250717152000 +0800">
+		<title lang="zh">飞哥战队第9集</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717152000 +0800" stop="20250717160600 +0800">
+		<title lang="zh">飞哥战队第10集</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717160600 +0800" stop="20250717165600 +0800">
+		<title lang="zh">飞哥战队第11集</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717165600 +0800" stop="20250717170100 +0800">
+		<title lang="zh">国家公园精彩片段-7</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717170100 +0800" stop="20250717171500 +0800">
+		<title lang="zh">平凡匠心-2024-71</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717171500 +0800" stop="20250717180000 +0800">
+		<title lang="zh">远方的家2025-46</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717180000 +0800" stop="20250717183000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717183000 +0800" stop="20250717190000 +0800">
+		<title lang="zh">中国文艺-2025-142</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717190000 +0800" stop="20250717193000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717193000 +0800" stop="20250717200000 +0800">
+		<title lang="zh">今日亚洲</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717200000 +0800" stop="20250717203000 +0800">
+		<title lang="zh">国家记忆-2025-79</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717203000 +0800" stop="20250717210000 +0800">
+		<title lang="zh">海峡两岸-2025-198</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717210000 +0800" stop="20250717213000 +0800">
+		<title lang="zh">中国新闻</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717213000 +0800" stop="20250717220000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717220000 +0800" stop="20250717223000 +0800">
+		<title lang="zh">走遍中国-2025-114</title>
+	</programme>
+	<programme channel="CCTV-4" start="20250717223000 +0800" stop="20250717230300 +0800">
 		<title lang="zh">新闻联播</title>
 	</programme>
-	<programme channel="CCTV-4" start="20250716230300 +0800" stop="20250716233100 +0800">
-		<title lang="zh">记住乡愁2025-53</title>
+	<programme channel="CCTV-4" start="20250717230300 +0800" stop="20250717233100 +0800">
+		<title lang="zh">记住乡愁2025-55</title>
 	</programme>
-	<programme channel="CCTV-4" start="20250716233100 +0800" stop="20250716235900 +0800">
-		<title lang="zh">国家孩子第24集</title>
+	<programme channel="CCTV-4" start="20250717233100 +0800" stop="20250717235900 +0800">
+		<title lang="zh">国家孩子第27集</title>
 	</programme>
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
 	</channel>
-	<programme channel="CCTV-5" start="20250716000500 +0800" stop="20250716010500 +0800">
-		<title lang="zh">顶级赛事-围棋</title>
+	<programme channel="CCTV-5" start="20250717000500 +0800" stop="20250717010500 +0800">
+		<title lang="zh">实况录像-2025年世界泳联跳水世界杯总决赛（北京） 2</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716010500 +0800" stop="20250716023600 +0800">
-		<title lang="zh">实况录像-2025年世界田联钻石联赛 摩纳哥站</title>
+	<programme channel="CCTV-5" start="20250717010500 +0800" stop="20250717023600 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 厦门站</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716023600 +0800" stop="20250716040000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 4</title>
+	<programme channel="CCTV-5" start="20250717023600 +0800" stop="20250717040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 5</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716040000 +0800" stop="20250716053000 +0800">
-		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第12轮 里尔—雷恩 (4K)</title>
+	<programme channel="CCTV-5" start="20250717040000 +0800" stop="20250717053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第16轮 布赖顿—水晶宫 (4K)</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716053000 +0800" stop="20250716060000 +0800">
-		<title lang="zh">实况录像-2025年射箭世界杯 中国站 4</title>
+	<programme channel="CCTV-5" start="20250717053000 +0800" stop="20250717060000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 1</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716060000 +0800" stop="20250716063000 +0800">
-		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 总决赛3</title>
+	<programme channel="CCTV-5" start="20250717060000 +0800" stop="20250717063000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 总决赛4</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716063000 +0800" stop="20250716070000 +0800">
+	<programme channel="CCTV-5" start="20250717063000 +0800" stop="20250717070000 +0800">
 		<title lang="zh">健身动起来</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716070000 +0800" stop="20250716090500 +0800">
+	<programme channel="CCTV-5" start="20250717070000 +0800" stop="20250717090800 +0800">
 		<title lang="zh">体坛晨报</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716090500 +0800" stop="20250716100000 +0800">
-		<title lang="zh">实况录像-2025年世界职业拳王争霸赛 10</title>
+	<programme channel="CCTV-5" start="20250717090800 +0800" stop="20250717104000 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 摩纳哥站</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716100000 +0800" stop="20250716120000 +0800">
-		<title lang="zh">2025年NBA夏季联赛-开拓者-鹈鹕</title>
+	<programme channel="CCTV-5" start="20250717104000 +0800" stop="20250717120000 +0800">
+		<title lang="zh">实况录像-2025年女篮亚洲杯 小组赛A组 中国队—新西兰队</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716120000 +0800" stop="20250716130500 +0800">
+	<programme channel="CCTV-5" start="20250717120000 +0800" stop="20250717130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716130500 +0800" stop="20250716132500 +0800">
+	<programme channel="CCTV-5" start="20250717130500 +0800" stop="20250717132500 +0800">
 		<title lang="zh">艺术里的奥林匹克(4K)</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716132500 +0800" stop="20250716145500 +0800">
-		<title lang="zh">实况录像-2025年温布尔登网球赛 1/4决赛 1</title>
+	<programme channel="CCTV-5" start="20250717132500 +0800" stop="20250717152800 +0800">
+		<title lang="zh">实况录像-2025年温布尔登网球赛 男单决赛</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716145500 +0800" stop="20250716170000 +0800">
-		<title lang="zh">2025年东亚足球锦标赛-（日本女足—中国女足）</title>
+	<programme channel="CCTV-5" start="20250717152800 +0800" stop="20250717160000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 1</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716170000 +0800" stop="20250716180000 +0800">
+	<programme channel="CCTV-5" start="20250717160000 +0800" stop="20250717180000 +0800">
 		<title lang="zh">运动一起赢</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716180000 +0800" stop="20250716190000 +0800">
+	<programme channel="CCTV-5" start="20250717180000 +0800" stop="20250717190000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716190000 +0800" stop="20250716213000 +0800">
-		<title lang="zh">2025年女篮亚洲杯-小组赛 A组（中国队-新西兰队）</title>
+	<programme channel="CCTV-5" start="20250717190000 +0800" stop="20250717193000 +0800">
+		<title lang="zh">体坛零距离(4K)</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716213000 +0800" stop="20250716223500 +0800">
+	<programme channel="CCTV-5" start="20250717193000 +0800" stop="20250717203000 +0800">
+		<title lang="zh">足球之夜</title>
+	</programme>
+	<programme channel="CCTV-5" start="20250717203000 +0800" stop="20250717213000 +0800">
+		<title lang="zh">实况录像-2025年女篮亚洲杯 小组赛中国队比赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20250717213000 +0800" stop="20250717223500 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250716223500 +0800" stop="20250716235900 +0800">
-		<title lang="zh">实况录像-2025年WTT美国大满贯 2</title>
+	<programme channel="CCTV-5" start="20250717223500 +0800" stop="20250717235900 +0800">
+		<title lang="zh">实况录像-2025年WTT美国大满贯 3</title>
 	</programme>
 	<channel id="CCTV-5+">
 		<display-name lang="zh">CCTV-5+</display-name>
 	</channel>
-	<programme channel="CCTV-5+" start="20250716010100 +0800" stop="20250716023100 +0800">
-		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 2</title>
+	<programme channel="CCTV-5+" start="20250717000500 +0800" stop="20250717010600 +0800">
+		<title lang="zh">2025年赛艇世界杯-卢塞恩站</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250716023100 +0800" stop="20250716040000 +0800">
-		<title lang="zh">国际足球赛场-24-25赛季英超联赛第12轮 阿森纳—诺丁汉森林(4K)</title>
+	<programme channel="CCTV-5+" start="20250717010600 +0800" stop="20250717023600 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 3</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250716040000 +0800" stop="20250716060000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 3</title>
+	<programme channel="CCTV-5+" start="20250717023600 +0800" stop="20250717040000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第12轮 里尔—雷恩 (4K)</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250716060000 +0800" stop="20250716073000 +0800">
-		<title lang="zh">实况录像-2025年法国网球公开赛 女单第四轮 萨姆索诺娃—郑钦文</title>
+	<programme channel="CCTV-5+" start="20250717040000 +0800" stop="20250717060000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 半决赛</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250716073000 +0800" stop="20250716090000 +0800">
-		<title lang="zh">实况录像-2025年长三角国际田径钻石赛(上海/绍兴柯桥)</title>
+	<programme channel="CCTV-5+" start="20250717060000 +0800" stop="20250717073000 +0800">
+		<title lang="zh">实况录像-2025年法国网球公开赛 女单1/4决赛 萨巴伦卡—郑钦文</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250716090000 +0800" stop="20250716100000 +0800">
-		<title lang="zh">2025年环法自行车赛-第10赛段</title>
+	<programme channel="CCTV-5+" start="20250717073000 +0800" stop="20250717090000 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛  拉巴特站</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250716100000 +0800" stop="20250716101500 +0800">
-		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯埃及站 男子单人技术自选决赛</title>
+	<programme channel="CCTV-5+" start="20250717090000 +0800" stop="20250717100000 +0800">
+		<title lang="zh">2025年赛艇世界杯-瓦雷泽站</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250716101500 +0800" stop="20250716120500 +0800">
-		<title lang="zh">2025年世界泳联世锦赛(公开水域游泳)-女子10公里</title>
+	<programme channel="CCTV-5+" start="20250717100000 +0800" stop="20250717113000 +0800">
+		<title lang="zh">2024/2025西班牙足球甲级联赛-第38轮（比利亚雷亚尔—塞维利亚）（4K）</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250716120500 +0800" stop="20250716132800 +0800">
-		<title lang="zh">2025年世界泳联世锦赛(水球)-男子小组赛（中国队-黑山队）</title>
+	<programme channel="CCTV-5+" start="20250717113000 +0800" stop="20250717120000 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 巴黎站25分钟版</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250716132800 +0800" stop="20250716153000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 1</title>
+	<programme channel="CCTV-5+" start="20250717120000 +0800" stop="20250717133000 +0800">
+		<title lang="zh">实况录像-2025年国际篮联U19男子世界杯 1/4决赛</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250716153000 +0800" stop="20250716163000 +0800">
-		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 中国队比赛</title>
+	<programme channel="CCTV-5+" start="20250717133000 +0800" stop="20250717150000 +0800">
+		<title lang="zh">2025年东亚足球锦标赛-中国队—中国香港队</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250716163000 +0800" stop="20250716182500 +0800">
-		<title lang="zh">2025年女篮亚洲杯-小组赛A组（韩国队-印度尼西亚队）</title>
+	<programme channel="CCTV-5+" start="20250717150000 +0800" stop="20250717155500 +0800">
+		<title lang="zh">实况录像-2025年世界职业拳王争霸赛 10</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250716182500 +0800" stop="20250716203500 +0800">
-		<title lang="zh">2025年东亚足球锦标赛-韩国女足-中国台北女足</title>
+	<programme channel="CCTV-5+" start="20250717155500 +0800" stop="20250717171500 +0800">
+		<title lang="zh">2025年世界泳联世锦赛(水球)-女子8强资格赛（1）</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250716203500 +0800" stop="20250716220500 +0800">
-		<title lang="zh">实况录像-2025年世界田联钻石联赛  巴黎站</title>
+	<programme channel="CCTV-5+" start="20250717171500 +0800" stop="20250717173000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯埃及站 混双技术自选、集体技巧自选决赛</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250716220500 +0800" stop="20250716235900 +0800">
-		<title lang="zh">实况录像-2025年温布尔登网球赛 男单决赛</title>
+	<programme channel="CCTV-5+" start="20250717173000 +0800" stop="20250717185000 +0800">
+		<title lang="zh">2025年世界泳联世锦赛(水球)-女子8强资格赛（2）</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20250717185000 +0800" stop="20250717201000 +0800">
+		<title lang="zh">实况录像-2025年女篮亚洲杯 小组赛A组 韩国队—中国队</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20250717201000 +0800" stop="20250717214000 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛  斯德哥尔摩站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20250717214000 +0800" stop="20250717221000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 1</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20250717221000 +0800" stop="20250717234000 +0800">
+		<title lang="zh">实况录像-2025年温布尔登网球赛 女单半决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20250717234000 +0800" stop="20250717235900 +0800">
+		<title lang="zh">2025年东亚足球锦标赛-韩国女足—中国女足</title>
 	</programme>
 	<channel id="CCTV-6">
 		<display-name lang="zh">CCTV-6</display-name>
 	</channel>
-	<programme channel="CCTV-6" start="20250716000300 +0800" stop="20250716013900 +0800">
-		<title lang="zh">功夫联盟</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716013900 +0800" stop="20250716031200 +0800">
-		<title lang="zh">苏子</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716031200 +0800" stop="20250716034700 +0800">
-		<title lang="zh">奇迹的滋味（上）</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716034700 +0800" stop="20250716044700 +0800">
-		<title lang="zh">奇迹的滋味（下）</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716044700 +0800" stop="20250716064500 +0800">
-		<title lang="zh">盗墓笔记</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716064500 +0800" stop="20250716070200 +0800">
-		<title lang="zh">核心价值观主题微电影：为了谁</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716070200 +0800" stop="20250716090200 +0800">
-		<title lang="zh">烽火天龙山</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716090200 +0800" stop="20250716103100 +0800">
-		<title lang="zh">少林四小龙</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716103100 +0800" stop="20250716105300 +0800">
-		<title lang="zh">爱情麻辣烫-唐斯复 李梅</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716105300 +0800" stop="20250716123200 +0800">
-		<title lang="zh">夜袭</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716123200 +0800" stop="20250716123700 +0800">
-		<title lang="zh">音乐电影欣赏</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716123700 +0800" stop="20250716142100 +0800">
-		<title lang="zh">特警狙击手</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716142100 +0800" stop="20250716145600 +0800">
-		<title lang="zh">海市蜃楼（上）</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716145600 +0800" stop="20250716163100 +0800">
-		<title lang="zh">海市蜃楼（下）</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716163100 +0800" stop="20250716182200 +0800">
-		<title lang="zh">长安侠影之药王诡案</title>
-	</programme>
-	<programme channel="CCTV-6" start="20250716182200 +0800" stop="20250716183300 +0800">
+	<programme channel="CCTV-6" start="20250717003000 +0800" stop="20250717004300 +0800">
 		<title lang="zh">今日影评2025-141</title>
 	</programme>
-	<programme channel="CCTV-6" start="20250716183300 +0800" stop="20250716201600 +0800">
-		<title lang="zh">谜案奇踪</title>
+	<programme channel="CCTV-6" start="20250717004300 +0800" stop="20250717020800 +0800">
+		<title lang="zh">关东女侠</title>
 	</programme>
-	<programme channel="CCTV-6" start="20250716201600 +0800" stop="20250716220000 +0800">
+	<programme channel="CCTV-6" start="20250717020800 +0800" stop="20250717040400 +0800">
+		<title lang="zh">汉水丹心</title>
+	</programme>
+	<programme channel="CCTV-6" start="20250717040400 +0800" stop="20250717053600 +0800">
+		<title lang="zh">我的青春有个你</title>
+	</programme>
+	<programme channel="CCTV-6" start="20250717053600 +0800" stop="20250717071100 +0800">
+		<title lang="zh">老妈学车</title>
+	</programme>
+	<programme channel="CCTV-6" start="20250717071100 +0800" stop="20250717085000 +0800">
 		<title lang="zh">扭转乾坤</title>
 	</programme>
-	<programme channel="CCTV-6" start="20250716220000 +0800" stop="20250716221800 +0800">
-		<title lang="zh">中国电影报道 2025-197</title>
+	<programme channel="CCTV-6" start="20250717085000 +0800" stop="20250717104000 +0800">
+		<title lang="zh">大漠紫禁令</title>
 	</programme>
-	<programme channel="CCTV-6" start="20250716221800 +0800" stop="20250716222300 +0800">
-		<title lang="zh">中国福利彩票阳光开奖2025-07-16</title>
+	<programme channel="CCTV-6" start="20250717104000 +0800" stop="20250717123100 +0800">
+		<title lang="zh">飞虎队谍战</title>
 	</programme>
-	<programme channel="CCTV-6" start="20250716222300 +0800" stop="20250716230000 +0800">
-		<title lang="zh">哥斯拉：怪兽之王（上）</title>
+	<programme channel="CCTV-6" start="20250717123100 +0800" stop="20250717123900 +0800">
+		<title lang="zh">音乐电影欣赏</title>
 	</programme>
-	<programme channel="CCTV-6" start="20250716230000 +0800" stop="20250716230100 +0800">
-		<title lang="zh">中国体育彩票阳光开奖2025-07-16</title>
+	<programme channel="CCTV-6" start="20250717123900 +0800" stop="20250717142200 +0800">
+		<title lang="zh">特警云豹</title>
 	</programme>
-	<programme channel="CCTV-6" start="20250716230100 +0800" stop="20250716235900 +0800">
-		<title lang="zh">哥斯拉：怪兽之王（下）</title>
+	<programme channel="CCTV-6" start="20250717142200 +0800" stop="20250717145800 +0800">
+		<title lang="zh">寂静之地2（上）</title>
 	</programme>
-	<channel id="凤凰中文">
-		<display-name lang="zh">凤凰中文</display-name>
-	</channel>
-	<programme channel="凤凰中文" start="20250716000000 +0800" stop="20250716005700 +0800">
-		<title lang="zh">凤凰洲际快车(16725)</title>
+	<programme channel="CCTV-6" start="20250717145800 +0800" stop="20250717155800 +0800">
+		<title lang="zh">寂静之地2（下）</title>
 	</programme>
-	<programme channel="凤凰中文" start="20250716005700 +0800" stop="20250716010000 +0800">
-		<title lang="zh">凤凰气象站</title>
+	<programme channel="CCTV-6" start="20250717155800 +0800" stop="20250717173100 +0800">
+		<title lang="zh">对不起，我原谅你</title>
 	</programme>
-	<programme channel="凤凰中文" start="20250716010000 +0800" stop="20250716013000 +0800">
-		<title lang="zh">有报天天读(15725)</title>
+	<programme channel="CCTV-6" start="20250717173100 +0800" stop="20250717181900 +0800">
+		<title lang="zh">我和我的父辈：鸭先知</title>
 	</programme>
-	<programme channel="凤凰中文" start="20250716013000 +0800" stop="20250716020000 +0800">
-		<title lang="zh">潍柴动力凤凰大视野</title>
+	<programme channel="CCTV-6" start="20250717181900 +0800" stop="20250717182800 +0800">
+		<title lang="zh">今日影评2025-142</title>
 	</programme>
-	<programme channel="凤凰中文" start="20250716020000 +0800" stop="20250716023000 +0800">
-		<title lang="zh">纪录大时代(1201)</title>
+	<programme channel="CCTV-6" start="20250717182800 +0800" stop="20250717201100 +0800">
+		<title lang="zh">军列杀出重围</title>
 	</programme>
-	<programme channel="凤凰中文" start="20250716023000 +0800" stop="20250716030000 +0800">
-		<title lang="zh">中国银行(香港)亚洲财经透视(920)</title>
+	<programme channel="CCTV-6" start="20250717201100 +0800" stop="20250717220000 +0800">
+		<title lang="zh">猎影追凶</title>
 	</programme>
-	<programme channel="凤凰中文" start="20250716030000 +0800" stop="20250716033000 +0800">
-		<title lang="zh">文化大观园(430)</title>
+	<programme channel="CCTV-6" start="20250717220000 +0800" stop="20250717221800 +0800">
+		<title lang="zh">中国电影报道 2025-198</title>
 	</programme>
-	<programme channel="凤凰中文" start="20250716033000 +0800" stop="20250716040000 +0800">
-		<title lang="zh">华润凤凰聚焦(922)</title>
+	<programme channel="CCTV-6" start="20250717221800 +0800" stop="20250717222300 +0800">
+		<title lang="zh">中国福利彩票阳光开奖2025-07-17</title>
 	</programme>
-	<programme channel="凤凰中文" start="20250716040000 +0800" stop="20250716043000 +0800">
-		<title lang="zh">我们和牠们(126)</title>
+	<programme channel="CCTV-6" start="20250717222300 +0800" stop="20250717230000 +0800">
+		<title lang="zh">小士兵（上）</title>
 	</programme>
-	<programme channel="凤凰中文" start="20250716043000 +0800" stop="20250716050000 +0800">
-		<title lang="zh">中国太平凤凰全球连线(15725)</title>
+	<programme channel="CCTV-6" start="20250717230000 +0800" stop="20250717230100 +0800">
+		<title lang="zh">中国体育彩票阳光开奖2025-07-17</title>
 	</programme>
-	<programme channel="凤凰中文" start="20250716050000 +0800" stop="20250716053000 +0800">
-		<title lang="zh">有报天天读(15725)</title>
+	<programme channel="CCTV-6" start="20250717230100 +0800" stop="20250717235000 +0800">
+		<title lang="zh">小士兵（下）</title>
 	</programme>
-	<programme channel="凤凰中文" start="20250716053000 +0800" stop="20250716060000 +0800">
-		<title lang="zh">香港热厨房(46)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716060000 +0800" stop="20250716063000 +0800">
-		<title lang="zh">纪录大时代(1201)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716063000 +0800" stop="20250716070000 +0800">
-		<title lang="zh">总编辑时间(15725)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716070000 +0800" stop="20250716075700 +0800">
-		<title lang="zh">凤凰早班车(16725)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716075700 +0800" stop="20250716080000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716080000 +0800" stop="20250716085700 +0800">
-		<title lang="zh">凤凰早班车(16725)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716085700 +0800" stop="20250716090000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716090000 +0800" stop="20250716093000 +0800">
-		<title lang="zh">中国太平凤凰全球连线(15725)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716093000 +0800" stop="20250716100000 +0800">
-		<title lang="zh">潍柴动力凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716100000 +0800" stop="20250716105700 +0800">
-		<title lang="zh">凤凰正点播报1000(16725)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716105700 +0800" stop="20250716110000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716110000 +0800" stop="20250716113000 +0800">
-		<title lang="zh">华润凤凰聚焦(922)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716113000 +0800" stop="20250716120000 +0800">
-		<title lang="zh">有报天天读(16725)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716120000 +0800" stop="20250716125500 +0800">
-		<title lang="zh">中免集团凤凰午间专列(16725)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716125500 +0800" stop="20250716130000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716130000 +0800" stop="20250716133000 +0800">
-		<title lang="zh">总编辑时间(15725)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716133000 +0800" stop="20250716140000 +0800">
-		<title lang="zh">中国茅台近观中国(181)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716140000 +0800" stop="20250716143000 +0800">
-		<title lang="zh">新闻鉴证组(180)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716143000 +0800" stop="20250716150000 +0800">
-		<title lang="zh">潍柴动力凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716150000 +0800" stop="20250716155700 +0800">
-		<title lang="zh">凤凰正点播报1500(16725)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716155700 +0800" stop="20250716160000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716160000 +0800" stop="20250716163000 +0800">
-		<title lang="zh">文化大观园(430)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716163000 +0800" stop="20250716170000 +0800">
-		<title lang="zh">纪录大时代(1202)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716170000 +0800" stop="20250716173000 +0800">
-		<title lang="zh">香港热厨房(46)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716173000 +0800" stop="20250716180000 +0800">
-		<title lang="zh">有报天天读(16725)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716180000 +0800" stop="20250716182700 +0800">
-		<title lang="zh">凤凰焦点新闻1800(16725)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716182700 +0800" stop="20250716183000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716183000 +0800" stop="20250716190000 +0800">
-		<title lang="zh">以岭药业新闻今日谈(16725)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716190000 +0800" stop="20250716193000 +0800">
-		<title lang="zh">中国银行(香港)亚洲财经透视(921)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716193000 +0800" stop="20250716200000 +0800">
-		<title lang="zh">红旗发现大湾区(127)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716200000 +0800" stop="20250716203000 +0800">
-		<title lang="zh">潍柴动力凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716203000 +0800" stop="20250716210000 +0800">
-		<title lang="zh">古井贡酒•年份原浆古20军情观察室(345)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716210000 +0800" stop="20250716215500 +0800">
-		<title lang="zh">时事直通车(16725)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716215500 +0800" stop="20250716220000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716220000 +0800" stop="20250716223000 +0800">
-		<title lang="zh">华润凤凰聚焦(923)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716223000 +0800" stop="20250716230000 +0800">
-		<title lang="zh">中国太平凤凰全球连线(16725)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716230000 +0800" stop="20250716233000 +0800">
-		<title lang="zh">中国银行(香港)亚洲财经透视(921)</title>
-	</programme>
-	<programme channel="凤凰中文" start="20250716233000 +0800" stop="20250716235900 +0800">
-		<title lang="zh">以岭药业新闻今日谈(16725)</title>
-	</programme>
-	<channel id="凤凰资讯">
-		<display-name lang="zh">凤凰资讯</display-name>
-	</channel>
-	<programme channel="凤凰资讯" start="20250716000000 +0800" stop="20250716005700 +0800">
-		<title lang="zh">凤凰洲际快车</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716005700 +0800" stop="20250716010000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716010000 +0800" stop="20250716013000 +0800">
-		<title lang="zh">凤凰正点播报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716013000 +0800" stop="20250716020000 +0800">
-		<title lang="zh">金石财经</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716020000 +0800" stop="20250716023000 +0800">
-		<title lang="zh">凤凰正点播报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716023000 +0800" stop="20250716030000 +0800">
-		<title lang="zh">凤凰财经日报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716030000 +0800" stop="20250716033000 +0800">
-		<title lang="zh">凤凰正点播报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716033000 +0800" stop="20250716040000 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716040000 +0800" stop="20250716053000 +0800">
-		<title lang="zh">凤凰正点播报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716053000 +0800" stop="20250716060000 +0800">
-		<title lang="zh">新闻今日谈</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716060000 +0800" stop="20250716063000 +0800">
-		<title lang="zh">凤凰正点播报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716063000 +0800" stop="20250716070000 +0800">
-		<title lang="zh">凤凰聚焦</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716070000 +0800" stop="20250716085700 +0800">
-		<title lang="zh">凤凰早班车</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716085700 +0800" stop="20250716090000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716090000 +0800" stop="20250716093000 +0800">
-		<title lang="zh">凤凰正点播报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716093000 +0800" stop="20250716100000 +0800">
-		<title lang="zh">金石财经</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716100000 +0800" stop="20250716112700 +0800">
-		<title lang="zh">凤凰正点播报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716112700 +0800" stop="20250716113000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716113000 +0800" stop="20250716120000 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716120000 +0800" stop="20250716125500 +0800">
-		<title lang="zh">凤凰午间专列</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716125500 +0800" stop="20250716130000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716130000 +0800" stop="20250716133000 +0800">
-		<title lang="zh">凤凰正点播报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716133000 +0800" stop="20250716140000 +0800">
-		<title lang="zh">金石财经</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716140000 +0800" stop="20250716143000 +0800">
-		<title lang="zh">凤凰正点播报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716143000 +0800" stop="20250716150000 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716150000 +0800" stop="20250716155700 +0800">
-		<title lang="zh">凤凰正点播报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716155700 +0800" stop="20250716160000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716160000 +0800" stop="20250716165700 +0800">
-		<title lang="zh">凤凰正点播报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716165700 +0800" stop="20250716170000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716170000 +0800" stop="20250716173000 +0800">
-		<title lang="zh">凤凰正点播报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716173000 +0800" stop="20250716180000 +0800">
-		<title lang="zh">金石财经</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716180000 +0800" stop="20250716182700 +0800">
-		<title lang="zh">凤凰焦点新闻</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716182700 +0800" stop="20250716183000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716183000 +0800" stop="20250716190000 +0800">
-		<title lang="zh">新闻今日谈</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716190000 +0800" stop="20250716195700 +0800">
-		<title lang="zh">华闻大直播</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716195700 +0800" stop="20250716200000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716200000 +0800" stop="20250716202700 +0800">
-		<title lang="zh">凤凰焦点新闻</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716202700 +0800" stop="20250716203000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716203000 +0800" stop="20250716210000 +0800">
-		<title lang="zh">凤凰财经日报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716210000 +0800" stop="20250716215500 +0800">
-		<title lang="zh">时事直通车</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716215500 +0800" stop="20250716220000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716220000 +0800" stop="20250716223000 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716223000 +0800" stop="20250716230000 +0800">
-		<title lang="zh">新闻今日谈</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716230000 +0800" stop="20250716233000 +0800">
-		<title lang="zh">凤凰焦点新闻</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20250716233000 +0800" stop="20250716235900 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
-	<channel id="凤凰香港">
-		<display-name lang="zh">凤凰香港</display-name>
-	</channel>
-	<programme channel="凤凰香港" start="20250716000000 +0800" stop="20250716003000 +0800">
-		<title lang="zh">华润凤凰聚焦</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716003000 +0800" stop="20250716010000 +0800">
-		<title lang="zh">新闻今日谈</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716010000 +0800" stop="20250716013000 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716013000 +0800" stop="20250716020000 +0800">
-		<title lang="zh">时事大破解</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716020000 +0800" stop="20250716023000 +0800">
-		<title lang="zh">凤凰全球连线</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716023000 +0800" stop="20250716030000 +0800">
-		<title lang="zh">凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716030000 +0800" stop="20250716033000 +0800">
-		<title lang="zh">华润凤凰聚焦</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716033000 +0800" stop="20250716040000 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716040000 +0800" stop="20250716043000 +0800">
-		<title lang="zh">问答神州</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716043000 +0800" stop="20250716050000 +0800">
-		<title lang="zh">香港新视点</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716050000 +0800" stop="20250716053000 +0800">
-		<title lang="zh">时事大破解</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716053000 +0800" stop="20250716060000 +0800">
-		<title lang="zh">新闻今日谈</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716060000 +0800" stop="20250716063000 +0800">
-		<title lang="zh">我们和牠们</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716063000 +0800" stop="20250716070000 +0800">
-		<title lang="zh">凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716070000 +0800" stop="20250716075700 +0800">
-		<title lang="zh">凤凰早班车</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716075700 +0800" stop="20250716080000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716080000 +0800" stop="20250716085700 +0800">
-		<title lang="zh">凤凰早班车</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716085700 +0800" stop="20250716090000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716090000 +0800" stop="20250716093000 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716093000 +0800" stop="20250716100000 +0800">
-		<title lang="zh">问答神州</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716100000 +0800" stop="20250716103000 +0800">
-		<title lang="zh">香港新视点</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716103000 +0800" stop="20250716110000 +0800">
-		<title lang="zh">凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716110000 +0800" stop="20250716113000 +0800">
-		<title lang="zh">时事大破解</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716113000 +0800" stop="20250716120000 +0800">
-		<title lang="zh">华润凤凰聚焦</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716120000 +0800" stop="20250716125500 +0800">
-		<title lang="zh">凤凰午间专列</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716125500 +0800" stop="20250716130000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716130000 +0800" stop="20250716135700 +0800">
-		<title lang="zh">午间快线</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716135700 +0800" stop="20250716140000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716140000 +0800" stop="20250716143000 +0800">
-		<title lang="zh">名人面对面</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716143000 +0800" stop="20250716150000 +0800">
-		<title lang="zh">问答神州</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716150000 +0800" stop="20250716153000 +0800">
-		<title lang="zh">香港新视点</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716153000 +0800" stop="20250716160000 +0800">
-		<title lang="zh">时事大破解</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716160000 +0800" stop="20250716163000 +0800">
-		<title lang="zh">凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716163000 +0800" stop="20250716170000 +0800">
-		<title lang="zh">筑梦天下</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716170000 +0800" stop="20250716173000 +0800">
-		<title lang="zh">华润凤凰聚焦</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716173000 +0800" stop="20250716180000 +0800">
-		<title lang="zh">文化大观园</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716180000 +0800" stop="20250716182700 +0800">
-		<title lang="zh">凤凰焦点新闻1800</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716182700 +0800" stop="20250716183000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716183000 +0800" stop="20250716190000 +0800">
-		<title lang="zh">新闻今日谈</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716190000 +0800" stop="20250716195700 +0800">
-		<title lang="zh">全球新闻报道</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716195700 +0800" stop="20250716200000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716200000 +0800" stop="20250716202800 +0800">
-		<title lang="zh">时事大破解</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716202800 +0800" stop="20250716203000 +0800">
-		<title lang="zh">中国银行(香港)直达大湾区</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716203000 +0800" stop="20250716210000 +0800">
-		<title lang="zh">发现大湾区</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716210000 +0800" stop="20250716215500 +0800">
-		<title lang="zh">时事直通车</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716215500 +0800" stop="20250716220000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716220000 +0800" stop="20250716223000 +0800">
-		<title lang="zh">凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716223000 +0800" stop="20250716230000 +0800">
-		<title lang="zh">凤凰全球连线</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716230000 +0800" stop="20250716233000 +0800">
-		<title lang="zh">军情观察室</title>
-	</programme>
-	<programme channel="凤凰香港" start="20250716233000 +0800" stop="20250716235900 +0800">
-		<title lang="zh">中国银行(香港)亚洲财经透视</title>
-	</programme>
-	<channel id="香港卫视">
-		<display-name lang="zh">香港卫视</display-name>
-	</channel>
-	<programme channel="香港卫视" start="20250716000000 +0800" stop="20250716001000 +0800">
-		<title lang="zh">精彩呈现</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716001000 +0800" stop="20250716004000 +0800">
-		<title lang="zh">映像锡林郭勒</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716004000 +0800" stop="20250716011000 +0800">
-		<title lang="zh">时尚汇</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716011000 +0800" stop="20250716014400 +0800">
-		<title lang="zh">文化超声</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716014400 +0800" stop="20250716020900 +0800">
-		<title lang="zh">香江唱皖</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716020900 +0800" stop="20250716024000 +0800">
-		<title lang="zh">香港故事</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716024000 +0800" stop="20250716030000 +0800">
-		<title lang="zh">港视大直播</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716030000 +0800" stop="20250716031400 +0800">
-		<title lang="zh">印象重庆</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716031400 +0800" stop="20250716034500 +0800">
-		<title lang="zh">映像锡林郭勒</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716034500 +0800" stop="20250716041200 +0800">
-		<title lang="zh">守心人</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716041200 +0800" stop="20250716043000 +0800">
-		<title lang="zh">那点财经事</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716043000 +0800" stop="20250716050000 +0800">
-		<title lang="zh">高朋满座</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716050000 +0800" stop="20250716052500 +0800">
-		<title lang="zh">香江唱皖</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716052500 +0800" stop="20250716055500 +0800">
-		<title lang="zh">健康加油站</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716055500 +0800" stop="20250716062500 +0800">
-		<title lang="zh">香港故事</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716062500 +0800" stop="20250716065500 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716065500 +0800" stop="20250716071500 +0800">
-		<title lang="zh">港视大直播</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716071500 +0800" stop="20250716072700 +0800">
-		<title lang="zh">印象重庆</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716072700 +0800" stop="20250716073300 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716073300 +0800" stop="20250716075800 +0800">
-		<title lang="zh">时尚汇</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716075800 +0800" stop="20250716080500 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716080500 +0800" stop="20250716083000 +0800">
-		<title lang="zh">香江唱皖</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716083000 +0800" stop="20250716085800 +0800">
-		<title lang="zh">映像锡林郭勒</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716085800 +0800" stop="20250716090400 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716090400 +0800" stop="20250716093000 +0800">
-		<title lang="zh">守心人</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716093000 +0800" stop="20250716095800 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716095800 +0800" stop="20250716100400 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716100400 +0800" stop="20250716103000 +0800">
-		<title lang="zh">时尚汇</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716103000 +0800" stop="20250716105600 +0800">
-		<title lang="zh">流行音乐盛典</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716105600 +0800" stop="20250716110700 +0800">
-		<title lang="zh">直击中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716110700 +0800" stop="20250716115500 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716115500 +0800" stop="20250716122400 +0800">
-		<title lang="zh">高朋满座</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716122400 +0800" stop="20250716123000 +0800">
-		<title lang="zh">三奇企业宣传片</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716123000 +0800" stop="20250716124700 +0800">
-		<title lang="zh">港视午新闻</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716124700 +0800" stop="20250716131500 +0800">
-		<title lang="zh">时尚汇</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716131500 +0800" stop="20250716134500 +0800">
-		<title lang="zh">香港精神</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716134500 +0800" stop="20250716141000 +0800">
-		<title lang="zh">香江唱皖</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716141000 +0800" stop="20250716142500 +0800">
-		<title lang="zh">印象重庆</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716142500 +0800" stop="20250716144500 +0800">
-		<title lang="zh">午新闻</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716144500 +0800" stop="20250716151500 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716151500 +0800" stop="20250716160600 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716160600 +0800" stop="20250716163900 +0800">
-		<title lang="zh">文化超声</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716163900 +0800" stop="20250716170700 +0800">
-		<title lang="zh">高朋满座</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716170700 +0800" stop="20250716172500 +0800">
-		<title lang="zh">直击中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716172500 +0800" stop="20250716175100 +0800">
-		<title lang="zh">流行音乐盛典</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716175100 +0800" stop="20250716182000 +0800">
-		<title lang="zh">香港故事</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716182000 +0800" stop="20250716184500 +0800">
-		<title lang="zh">动画天地</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716184500 +0800" stop="20250716190000 +0800">
-		<title lang="zh">印象重庆</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716190000 +0800" stop="20250716191600 +0800">
-		<title lang="zh">港视大直播</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716191600 +0800" stop="20250716193700 +0800">
-		<title lang="zh">香江唱皖</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716193700 +0800" stop="20250716200300 +0800">
-		<title lang="zh">守心人</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716200300 +0800" stop="20250716203000 +0800">
-		<title lang="zh">香港精神</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716203000 +0800" stop="20250716210000 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716210000 +0800" stop="20250716213000 +0800">
-		<title lang="zh">映像锡林郭勒</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716213000 +0800" stop="20250716220000 +0800">
-		<title lang="zh">香港故事</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716220000 +0800" stop="20250716225100 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716225100 +0800" stop="20250716232100 +0800">
-		<title lang="zh">独爱东南</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716232100 +0800" stop="20250716235000 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20250716235000 +0800" stop="20250716235900 +0800">
-		<title lang="zh">港视大直播</title>
+	<programme channel="CCTV-6" start="20250717235000 +0800" stop="20250717235900 +0800">
+		<title lang="zh">今日影评2025-142</title>
 	</programme>
 </tv>
