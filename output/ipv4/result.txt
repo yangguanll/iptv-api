@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-06 06:28:45,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2025-08-06 18:30:05,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 央视频道,#genre#
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
