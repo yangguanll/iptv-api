@@ -1,17 +1,10 @@
 🕘️更新时间,#genre#
-2025-08-19 06:21:15,http://223.109.75.19:8000/057754/index.m3u8
+2025-08-19 18:27:00,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 央视频道,#genre#
-CCTV-1,http://223.109.75.19:8000/057754/index.m3u8
-CCTV-2,http://223.109.75.19:8000/061465/index.m3u8
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
-CCTV-3,http://223.109.75.19:8000/830965/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://223.109.75.19:8000/143097/index.m3u8
-CCTV-5,http://223.109.75.19:8000/930480/index.m3u8
 CCTV-5+,http://drive.mxmy.net:8888/udp/239.3.1.130:8004
-CCTV-5+,http://223.109.75.19:8000/470540/index.m3u8
-CCTV-6,http://223.109.75.19:8000/520737/index.m3u8
 
 港澳台频,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
