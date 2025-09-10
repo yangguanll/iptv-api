@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-10 18:25:38,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-09-11 06:22:18,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -90,7 +90,6 @@ CCTV-6,https://cc06.tv12.xyz/7.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php
 凤凰资讯,https://stream.iptv-search.com/main.php
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
@@ -101,3 +100,4 @@ CCTV-6,https://cc06.tv12.xyz/7.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://yvxymm.tv12.xyz/175.m3u8
 香港卫视,https://migu.188766.xyz/?migutoken=71c1dbe4568d6c43573e0f04671d588f&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
+香港卫视,https://migu.188766.xyz/?migutoken=6804cde09f4133e69f2aaf5406a2bcc5&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&type=yy
