@@ -1,20 +1,9 @@
 🕘️更新时间,#genre#
-2025-10-08 06:22:59,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2025-10-08 18:26:28,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8
 
 央视频道,#genre#
-CCTV-1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://ygbh.site/php/bfgd.php?id=488
-CCTV-2,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://ygbh.site/php/bfgd.php?id=061
-CCTV-2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8
-CCTV-3,http://61.156.228.12:8154/tsfile/live/0003_1.m3u8
+CCTV-1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://ygbh.site/php/bfgd.php?id=064
-CCTV-5+,http://ygbh.site/php/bfgd.php?id=246
-CCTV-6,http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
-CCTV-6,http://222.169.85.8:9901/tsfile/live/0006_1.m3u8
 
 港澳台频,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
