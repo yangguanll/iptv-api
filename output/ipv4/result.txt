@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2025-10-10 18:26:43,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-11 06:22:54,http://171.15.18.199:8180/TV00000000000000000004@HHZT
 
 央视频道,#genre#
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://171.15.18.199:8180/TV00000000000000000004@HHZT
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-6,http://171.15.18.199:8180/TV00000000000000000006@HHZT
 
 港澳台频,#genre#
