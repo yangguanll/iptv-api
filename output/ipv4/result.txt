@@ -1,11 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-15 06:23:35,http://171.15.18.199:8180/TV00000000000000000003@HHZT
+2025-10-15 18:27:34,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视频道,#genre#
-CCTV-3,http://171.15.18.199:8180/TV00000000000000000003@HHZT
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://171.15.18.199:8180/TV00000000000000000004@HHZT
-CCTV-6,http://171.15.18.199:8180/TV00000000000000000006@HHZT
 
 港澳台频,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
