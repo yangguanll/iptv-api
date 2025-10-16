@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2025-10-16 06:20:55,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-16 18:28:26,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4,http://112.132.10.54:9901/tsfile/live/0004_2.m3u8?key=txiptv&playlive=0&authid=0
 
 港澳台频,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
