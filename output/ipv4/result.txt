@@ -1,8 +1,13 @@
 🕘️更新时间,#genre#
-2025-10-25 18:23:13,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-26 06:23:20,http://1.31.14.70:54321/hls/4/index.m3u8
 
 央视频道,#genre#
+CCTV-2,http://1.31.14.70:54321/hls/4/index.m3u8
+CCTV-2,http://218.19.109.221:808/hls/2/index.m3u8
+CCTV-3,http://sh.lnott.top:880/dx03.m3u8
+CCTV-3,http://1.31.14.70:54321/hls/6/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4,http://218.19.109.221:808/hls/3/index.m3u8
 
 港澳台频,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
