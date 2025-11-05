@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2025-11-05 18:30:38,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-06 06:24:18,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 
 央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
-CCTV-4,http://sh.lnott.top:880/dx04.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 港澳台频,#genre#
