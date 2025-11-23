@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-23 18:24:03,http://bxtv.3a.ink/migu.php?id=cctv1
+2025-11-24 06:23:27,http://bxtv.3a.ink/migu.php?id=cctv2
 
 央视频道,#genre#
-CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
 CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
 CCTV-3,http://bxtv.3a.ink/migu.php?id=cctv3
 CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4
