@@ -1,13 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-24 06:23:27,http://bxtv.3a.ink/migu.php?id=cctv2
+2025-11-24 18:29:20,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 
 央视频道,#genre#
-CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
-CCTV-3,http://bxtv.3a.ink/migu.php?id=cctv3
-CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4
-CCTV-5,http://bxtv.3a.ink/migu.php?id=cctv5
-CCTV-5+,http://bxtv.3a.ink/migu.php?id=cctv5p
-CCTV-6,http://bxtv.3a.ink/migu.php?id=cctv6
 
 港澳台频,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
