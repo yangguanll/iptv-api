@@ -1,13 +1,9 @@
 🕘️更新时间,#genre#
-2025-11-26 06:25:29,http://ygbh.site/php/bfgd.php?id=201
+2025-11-26 18:29:28,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 央视频道,#genre#
-CCTV-1,http://ygbh.site/php/bfgd.php?id=201
-CCTV-3,http://113.57.93.165:9900/tsfile/live/0003_1.m3u8
-CCTV-3,http://218.3.138.25:1111/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 CCTV-4,http://home.yulei.online:9999/rtp/226.0.2.156:9160
-CCTV-4,http://113.57.93.165:9900/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 
 港澳台频,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
