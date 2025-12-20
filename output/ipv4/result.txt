@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-12-20 06:25:06,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
+2025-12-20 18:25:50,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 
 央视频道,#genre#
+CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 
 港澳台频,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
