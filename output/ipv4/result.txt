@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2025-12-30 18:29:54,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
+2025-12-31 06:25:57,http://hczn.x3322.net:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 
 央视频道,#genre#
-CCTV-6,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
+CCTV-4,http://hczn.x3322.net:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://btjg.net:809/hls/143/index.m3u8
 
 港澳台频,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
