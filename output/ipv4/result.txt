@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-01-01 06:26:11,http://tvlist.top/jd/index.php?id=cctv4&qt=183.224.122.114:8014
+2026-01-01 18:28:36,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 
 央视频道,#genre#
-CCTV-4,http://tvlist.top/jd/index.php?id=cctv4&qt=183.224.122.114:8014
 
 港澳台频,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
