@@ -1,13 +1,17 @@
 🕘️更新时间,#genre#
-2026-01-14 18:31:49,http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
+2026-01-15 06:28:41,http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
 
 央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
-CCTV-1,http://hczn.x3322.net:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV-1,http://120.238.94.10:9901/tsfile/live/1018_1.m3u8
+CCTV-1,http://218.3.138.25:1111/tsfile/live/1000_1.m3u8
+CCTV-2,http://120.238.94.10:9901/tsfile/live/1019_1.m3u8
 CCTV-3,http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009
-CCTV-3,http://hczn.x3322.net:9902/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV-3,http://218.3.138.25:1111/tsfile/live/1002_1.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+CCTV-4,http://btjg.net:809/hls/144/index.m3u8
+CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 
