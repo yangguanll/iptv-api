@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-19 18:36:13,http://23.237.228.134/live5/CCTV1.m3u8
+2026-01-20 06:27:55,http://23.237.228.134/live5/CCTV1.m3u8
 
 央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -9,7 +9,6 @@ CCTV-2,http://pull-hls-f1.douyincdn.com/media/stream-695106910011261612/playlist
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-3,http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-CCTV-5,http://23.128.116.71:5589/live.php?id=cctv5&h=23.128.116.71&p=22364&token=1768700622.97deb5815a175eccccb7196a134f02953297c35fe8ee68ff1337106d2a70a06b
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 
