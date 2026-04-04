@@ -1,20 +1,12 @@
 🕘️更新时间,#genre#
-2026-04-04 18:39:58,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
+2026-04-05 06:36:05,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
 
 央视频道,#genre#
 CCTV-1,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
-CCTV-1,http://dms.yryyj.site:8188/udp/239.76.246.151:1234
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-CCTV-2,http://dms.yryyj.site:8188/udp/239.76.246.152:1234
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
-CCTV-3,http://dms.yryyj.site:8188/udp/239.76.246.153:1234
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-CCTV-4,http://dms.yryyj.site:8188/udp/239.76.246.154:1234
-CCTV-4,http://dms.yryyj.site:8188/udp/239.76.245.195:1234
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-CCTV-5,http://dms.yryyj.site:8188/udp/239.76.246.168:1234
-CCTV-5,http://dms.yryyj.site:8188/udp/239.76.246.155:1234
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-5+,http://111.56.90.5/000000000000/1000000005000265016/1.m3u8
 CCTV-5+,http://111.56.90.5/000000000000/1000000001000020505/1.m3u8
