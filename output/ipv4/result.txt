@@ -1,6 +1,7 @@
 🕘️更新时间,#genre#
-2026-05-10 19:03:30,url
+2026-05-11 06:54:40,http://123.130.84.106:8154/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 央视频道,#genre#
+CCTV-6,http://123.130.84.106:8154/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 港澳台频,#genre#
