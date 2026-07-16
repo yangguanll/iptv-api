@@ -1,6 +1,7 @@
 🕘️更新时间,#genre#
-2026-07-16 19:43:55,url
+2026-07-17 07:01:57,http://118.193.115.2:9901/tsfile/live/0002_1.m3u8?key=txiptv
 
 央视频道,#genre#
+CCTV-2,http://118.193.115.2:9901/tsfile/live/0002_1.m3u8?key=txiptv
 
 港澳台频,#genre#
