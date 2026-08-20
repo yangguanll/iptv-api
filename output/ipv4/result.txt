@@ -1,11 +1,6 @@
 🕘️更新时间,#genre#
-2026-08-20 18:38:25,http://111.8.242.142:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-08-21 06:34:20,url
 
 央视频道,#genre#
-CCTV-1,http://111.8.242.142:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://58.56.162.102:4466/newlive/live/hls/3/live.m3u8
-CCTV-3,http://111.8.242.142:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://111.8.242.142:9999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://111.8.242.142:9999/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
 港澳台频,#genre#
