@@ -1,6 +1,16 @@
 🕘️更新时间,#genre#
-2026-09-14 07:59:23,url
+2026-09-15 00:19:14,http://101.66.198.81:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 
 央视频道,#genre#
+CCTV-1,http://101.66.198.81:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-1,http://123.149.163.24:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://101.66.198.81:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-2,http://123.149.163.24:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://101.66.198.81:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-3,http://123.149.163.24:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://123.149.163.24:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://101.66.198.81:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5,http://123.149.163.24:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://101.66.198.81:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 
 港澳台频,#genre#
